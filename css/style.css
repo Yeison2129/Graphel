@@ -352,4 +352,18 @@ a{
     .quehacemos{
         margin-bottom: 20px;
     }
+
+    @media (min-width:350px){
+        header h2{
+           text-align: center;
+        }
+
+        .suscribete{
+            height: 150px;
+        }
+
+        .arriba{
+            width: 100%;
+        }
+    }
 }
